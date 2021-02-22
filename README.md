@@ -8,7 +8,6 @@
 
 ## Keybindings
  ![Sa-Sampler Key-bindings](/img/sa-sampler-key-bindings.png)
- Format: ![Alt Text](url)
 
 ## Midi
  The midi-binding layout is currently specific to the layout of the Novation Launchpad mk1.
